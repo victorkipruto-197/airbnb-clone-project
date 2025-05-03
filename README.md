@@ -36,6 +36,8 @@ Document each role’s contribution to the project
 UI Component Patterns
 
 Plan reusable UI components
+-
+
 Document component architecture
 Best Practices
 Code Organization: Maintain clean, modular code structure
@@ -91,7 +93,10 @@ QA/Testers	Writes test cases, performs testing, reports bugs
 DevOps Engineers	Manages deployment, CI/CD pipeline, server infrastructure
 Product Owner	Defines requirements, prioritizes features, represents stakeholders
 Scrum Master	Facilitates agile processes, removes blockers, organizes meetings
+
 UI Component Patterns
+-
+
 Planned Components
 Navbar
 
